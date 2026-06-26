@@ -5,14 +5,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **[Live Site](https://nexusai-frontend-battle.vercel.app)** — Deployed on Vercel
-
-📁 **[GitHub Repository](https://github.com/pandeylakshya207-max/nexusai-frontend-battle)**
-
----
-
 ## 📋 Overview
 
 A premium, high-converting, responsive landing page for a next-generation AI-driven data automation platform. Built under a strict 4-hour countdown as part of **Frontend Battle 3.0** — the flagship event of the Web and Design Society, IIT Bhubaneswar.
